@@ -1,4 +1,3 @@
-# McSim
-simulates p(r) functions from geometrical bodies build from user input.       
+# Shape2SAS
 source code available here:     
 https://github.com/ehb54/GenApp-McSim    
